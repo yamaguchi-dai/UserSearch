@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings
+bin
+DB_key.properties
+twitter_key.properties

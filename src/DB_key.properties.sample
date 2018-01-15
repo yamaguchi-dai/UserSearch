@@ -1,0 +1,5 @@
+DB_key.properties:java.properties
+user=
+pass=
+ip=
+port=3306
